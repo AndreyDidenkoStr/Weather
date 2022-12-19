@@ -62,8 +62,6 @@
 			isa = PBXGroup;
 			children = (
 				7CD57DC029411CFC002FBF4F /* Weather_Test_AppApp.swift */,
-				7CD57DC229411CFC002FBF4F /* ContentView.swift */,
-				7CF7FBB629432C520022E83A /* DetailView.swift */,
 				7CE2F42329511BAD00A04CE6 /* View */,
 				7CE2F42229511ACC00A04CE6 /* View Model */,
 				7CE2F41F295119D700A04CE6 /* Model */,
@@ -101,6 +99,8 @@
 		7CE2F42329511BAD00A04CE6 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				7CF7FBB629432C520022E83A /* DetailView.swift */,
+				7CD57DC229411CFC002FBF4F /* ContentView.swift */,
 			);
 			name = View;
 			sourceTree = "<group>";
